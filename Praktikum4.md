@@ -6,6 +6,6 @@ Sintaks `user.imageUrl` digunakan untuk mengakses properti `imageUrl` dalam obje
 
 Contoh penggunaannya:
 
-```tsx
+
 ![alt text](image-5.png)
 
